@@ -1,0 +1,16 @@
+F:\Projects\Visual Code\Graphs\bin\Debug\net5.0\Graphs.exe
+F:\Projects\Visual Code\Graphs\bin\Debug\net5.0\Graphs.deps.json
+F:\Projects\Visual Code\Graphs\bin\Debug\net5.0\Graphs.runtimeconfig.json
+F:\Projects\Visual Code\Graphs\bin\Debug\net5.0\Graphs.runtimeconfig.dev.json
+F:\Projects\Visual Code\Graphs\bin\Debug\net5.0\Graphs.dll
+F:\Projects\Visual Code\Graphs\bin\Debug\net5.0\ref\Graphs.dll
+F:\Projects\Visual Code\Graphs\bin\Debug\net5.0\Graphs.pdb
+F:\Projects\Visual Code\Graphs\obj\Debug\net5.0\Graphs.csproj.AssemblyReference.cache
+F:\Projects\Visual Code\Graphs\obj\Debug\net5.0\Graphs.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Visual Code\Graphs\obj\Debug\net5.0\Graphs.AssemblyInfoInputs.cache
+F:\Projects\Visual Code\Graphs\obj\Debug\net5.0\Graphs.AssemblyInfo.cs
+F:\Projects\Visual Code\Graphs\obj\Debug\net5.0\Graphs.csproj.CoreCompileInputs.cache
+F:\Projects\Visual Code\Graphs\obj\Debug\net5.0\Graphs.dll
+F:\Projects\Visual Code\Graphs\obj\Debug\net5.0\ref\Graphs.dll
+F:\Projects\Visual Code\Graphs\obj\Debug\net5.0\Graphs.pdb
+F:\Projects\Visual Code\Graphs\obj\Debug\net5.0\Graphs.genruntimeconfig.cache
